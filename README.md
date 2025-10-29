@@ -18,8 +18,8 @@ This model helps in improving operating room efficiency, automating surgical vid
 - pip install -r requirements.txt
 
 ## 📂 Dataset
-This project can be trained on any surgical tools dataset.
-Example: Kaggle – Surgical Tool Images Dataset or a custom labeled dataset structured as:
+- This project can be trained on any surgical tools dataset.
+- Example: Kaggle – Surgical Tool Images Dataset or a custom labeled dataset structured as:
 
 dataset/
 │
@@ -35,27 +35,27 @@ dataset/
     ├── clamp/
     └── retractor/
 
+
 ## 🚀 Model Overview
-Architecture: ResNet50 (transfer learning)
-Input Size: 224x224 pixels
-Loss Function: Categorical Crossentropy
-Optimizer: Adam
-Metrics: Accuracy
-Training and evaluation code is provided in the Jupyter notebook:
-surgical-tools-model-code.ipynb
+- Architecture: ResNet50 (transfer learning)
+- Input Size: 224x224 pixels
+- Loss Function: Categorical Crossentropy
+- Optimizer: Adam
+- Metrics: Accuracy
+- Training and evaluation code is provided in the Jupyter notebook:
+- surgical-tools-model-code.ipynb
 
 ## 🧪 Usage
-Clone this repository:
-git clone https://github.com/Karthik9480/Surgical-Tool-Classification.git
+1. Clone this repository:
 cd Surgical-Tool-Classification
 
-Install dependencies:
+2. Install dependencies:
 pip install -r requirements.txt
 
-Open and run the notebook:
+3. Open and run the notebook:
 jupyter notebook surgical-tools-model-code.ipynb
 
-(Optional) Modify dataset paths in the notebook before training.
+4. (Optional) Modify dataset paths in the notebook before training.
 
 ## 📊 Results
 Model: ResNet50 (fine-tuned)
