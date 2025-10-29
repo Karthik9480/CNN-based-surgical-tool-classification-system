@@ -58,14 +58,14 @@ jupyter notebook surgical-tools-model-code.ipynb
 4. (Optional) Modify dataset paths in the notebook before training.
 
 ## 📊 Results
-Model: ResNet50 (fine-tuned)
-Accuracy: ~95% (on validation dataset)
-Visualization: Includes accuracy vs loss curves and confusion matrix
+- Model: ResNet50 (fine-tuned)
+- Accuracy: ~95% (on validation dataset)
+- Visualization: Includes accuracy vs loss curves and confusion matrix
 
 ## 🔮 Future Enhancements
-Deploy the model using Streamlit or Flask for real-time classification
-Add Grad-CAM visualization for model explainability
+- Deploy the model using Streamlit or Flask for real-time classification
+- Add Grad-CAM visualization for model explainability
 
-Extend to surgical phase detection from videos
+- Extend to surgical phase detection from videos
 
-Integrate dataset versioning and model tracking with MLflow
+- Integrate dataset versioning and model tracking with MLflow
