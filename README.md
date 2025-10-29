@@ -3,11 +3,11 @@ A deep learning project that uses ResNet50 for automatic classification of surgi
 This model helps in improving operating room efficiency, automating surgical video analysis, and assisting in surgical phase recognition.
 
 ## 🧠 Features
-Image Classification: Identifies different surgical tools from input images
-Pretrained Model: Uses ResNet50 pretrained on ImageNet for transfer learning
-Data Augmentation: Improves generalization using Keras image preprocessing techniques
-Model Evaluation: Includes accuracy, loss visualization, and confusion matrix analysis
-Custom Dataset Support: Can be easily trained on any labeled surgical tool dataset
+- **Image Classification**: Identifies different surgical tools from input images
+- **Pretrained Model**: Uses ResNet50 pretrained on ImageNet for transfer learning
+- **Data Augmentation**: Improves generalization using Keras image preprocessing techniques
+- **Model Evaluation**: Includes accuracy, loss visualization, and confusion matrix analysis
+- **Custom Dataset Support**: Can be easily trained on any labeled surgical tool dataset
 
 ## ⚙️ Requirements
 Python 3.8+
