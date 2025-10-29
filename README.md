@@ -38,30 +38,30 @@ This model helps in improving operating room efficiency, automating surgical vid
 
 
 ## 🚀 Model Overview
-- Architecture: ResNet50 (transfer learning)
-- Input Size: 224x224 pixels
-- Loss Function: Categorical Crossentropy
-- Optimizer: Adam
-- Metrics: Accuracy
+- **Architecture**: ResNet50 (transfer learning)
+- **Input Size**: 224x224 pixels
+- **Loss Function**: Categorical Crossentropy
+- **Optimizer**: Adam
+- **Metrics**: Accuracy
 - Training and evaluation code is provided in the Jupyter notebook:
-- surgical-tools-model-code.ipynb
+- "surgical-tools-model-code.ipynb"
 
 ## 🧪 Usage
 1. Clone this repository:
 cd Surgical-Tool-Classification
 
 2. Install dependencies:
-pip install -r requirements.txt
+"pip install -r requirements.txt"
 
 3. Open and run the notebook:
-jupyter notebook surgical-tools-model-code.ipynb
+jupyter notebook **surgical-tools-model-code.ipynb**
 
 4. (Optional) Modify dataset paths in the notebook before training.
 
 ## 📊 Results
-- Model: ResNet50 (fine-tuned)
-- Accuracy: ~95% (on validation dataset)
-- Visualization: Includes accuracy vs loss curves and confusion matrix
+- **Model**: ResNet50 (fine-tuned)
+- **Accuracy**: ~95% (on validation dataset)
+- **Visualization**: Includes accuracy vs loss curves and confusion matrix
 
 ## 🔮 Future Enhancements
 - Deploy the model using Streamlit or Flask for real-time classification
