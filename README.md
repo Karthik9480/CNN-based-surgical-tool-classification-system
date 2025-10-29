@@ -24,16 +24,16 @@ This model helps in improving operating room efficiency, automating surgical vid
 - dataset
 
  **train :**
- forceps,
- scissors,
- clamp,
- retractor,
+   forceps,
+   scissors,
+   clamp,
+   retractor,
 
  **test :**
- forceps,
- scissors,
- clamp,
- retractor,
+   forceps,
+   scissors,
+   clamp,
+   retractor,
 
 
 
