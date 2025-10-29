@@ -1,6 +1,7 @@
 # CNN-based-surgical-tool-classification-system
 A deep learning project that uses ResNet50 for automatic classification of surgical tools from medical images.
 This model helps in improving operating room efficiency, automating surgical video analysis, and assisting in surgical phase recognition.
+
 ## 🧠 Features
 Image Classification: Identifies different surgical tools from input images
 Pretrained Model: Uses ResNet50 pretrained on ImageNet for transfer learning
