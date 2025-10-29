@@ -34,7 +34,7 @@ dataset/
     ├── scissors/
     ├── clamp/
     └── retractor/
-bash train_model.sh
+exit 0
 
 
 ## 🚀 Model Overview
