@@ -21,19 +21,19 @@ This model helps in improving operating room efficiency, automating surgical vid
 - This project can be trained on any surgical tools dataset.
 - Example: Kaggle – Surgical Tool Images Dataset or a custom labeled dataset structured as:
 
-dataset/
-│
-├── train/
-│   ├── forceps/
-│   ├── scissors/
-│   ├── clamp/
-│   └── retractor/
-│
-└── test/
-    ├── forceps/
-    ├── scissors/
-    ├── clamp/
-    └── retractor/
+- dataset
+
+ **train**
+ forceps/
+ scissors
+ clamp
+ retractor
+
+ **test**
+ forceps
+ scissors
+ clamp
+ retractor
 
 
 
