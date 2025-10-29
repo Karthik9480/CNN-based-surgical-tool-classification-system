@@ -10,12 +10,12 @@ This model helps in improving operating room efficiency, automating surgical vid
 - **Custom Dataset Support**: Can be easily trained on any labeled surgical tool dataset
 
 ## ⚙️ Requirements
-Python 3.8+
-TensorFlow / Keras for deep learning
-NumPy, Matplotlib, Pandas for data processing and visualization
-scikit-learn for evaluation metrics
-You can install all dependencies using:
-pip install -r requirements.txt
+- Python 3.8+
+- TensorFlow / Keras for deep learning
+- NumPy, Matplotlib, Pandas for data processing and visualization
+- scikit-learn for evaluation metrics
+- You can install all dependencies using:
+- pip install -r requirements.txt
 
 ## 📂 Dataset
 This project can be trained on any surgical tools dataset.
